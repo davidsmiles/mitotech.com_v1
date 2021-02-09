@@ -1,0 +1,88 @@
+/* Montserrat */
+@font-face {
+	font-family: "Montserrat-Black";
+	src: url("./assets/fonts/montserrat/Montserrat-Black.otf");
+}
+
+@font-face {
+	font-family: "Montserrat-Bold";
+	src: url("./assets/fonts/montserrat/Montserrat-Bold.otf");
+}
+
+@font-face {
+	font-family: "Montserrat-SemiBold";
+	src: url("./assets/fonts/montserrat/Montserrat-SemiBold.otf");
+}
+
+@font-face {
+	font-family: "Montserrat-Regular";
+	src: url("./assets/fonts/montserrat/Montserrat-Regular.otf");
+}
+
+//FONTS ITEMS
+.font-mont-bold {
+    font-family: "Montserrat-Bold" !important;
+}
+
+.font-mont-reg {
+    font-family: "Montserrat-Regular" !important;
+}
+
+.font-mont-semibold {
+    font-family: "Montserrat-SemiBold" !important;
+}
+
+.font-mont-black {
+    font-family: "Montserrat-Black" !important;
+}
+
+//FONT TEMPLATES
+.font-mont-template {
+    * {
+        font-family: "Montserrat-Regular";
+    }
+}
+
+
+
+/* Universalis */
+@font-face {
+	font-family: "Universalis-Regular";
+	src: url("./assets/fonts/universalis-adf-std/UniversalisADFStd-Regular.otf");
+}
+
+@font-face {
+	font-family: "Universalis-Cond";
+	src: url("./assets/fonts/universalis-adf-std/UniversalisADFStd-Cond.otf");
+}
+
+@font-face {
+	font-family: "Universalis-Bold";
+	src: url("./assets/fonts/universalis-adf-std/UniversalisADFStd-Bold.otf");
+}
+
+//FONTS ITEMS
+.font-uni-bold {
+    font-family: "Universalis-Bold" !important;
+}
+
+.font-uni-reg {
+    font-family: "Universalis-Regular" !important;
+}
+
+.font-uni-cond {
+    font-family: "Universalis-Cond" !important;
+}
+
+//FONT TEMPLATES
+.font-uni-template {
+    * {
+        font-family: "Universalis-Regular";
+    }
+}
+
+
+
+
+
+

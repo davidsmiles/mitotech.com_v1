@@ -1,0 +1,12 @@
+//TEXT 
+.text-theme-1 {
+    color: $theme-color-1;
+}
+
+
+//TEXT COLOR TEMPLATES
+.text-theme-1-parent {
+    * {
+        @extend .text-theme-1;
+    }
+}
